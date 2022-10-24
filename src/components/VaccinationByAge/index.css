@@ -1,0 +1,8 @@
+/* Write your CSS here */
+.age-container {
+  background-color: #1c1c2b;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  margin-bottom: 20px;
+}
